@@ -1,0 +1,1029 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "title": "Grand Theft Auto: San Andreas – The Definitive Edition",
+      "price": 21.99,
+      "description": "Grand Theft Auto: San Andreas: 90-cı illərin əvvəlləridir. Bir neçə polis onu öldürməkdə ittiham etdikdən sonra, Carl 'CJ' Johnson ailəsini xilas etmək və küçələrə nəzarət etmək üçün onu bütün San Andreas əyalətinə aparan səyahətə çıxmağa məcbur olur.",
+      "category": "Fəaliyyət, Macəra",
+      "image": "https://cdn1.epicgames.com/offer/3262906d93334603b399e106492b1217/EGS_GrandTheftAutoSanAndreasTheDefinitiveEdition_RockstarGames_S2_1200x1600-31b942afca6472306be8ae9dfa73290e?h=480&quality=medium&resize=1&w=360",
+      "rating": {
+        "rate": 4.5,
+        "count": 110
+      },
+      "bg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1547000/ss_1a8e1aff75d059f19e3bf673ff2183344bbadbb4.1920x1080.jpg?t=1676922466"
+    },
+    {
+      "id": 4,
+      "title": "Hogwarts Legacy",
+      "price": 26.99,
+      "discount": "-50%",
+      "discountprice": "13.99",
+      "description": "Hogwarts Legacy, Harry Potter kitablarında ilk tanış olduğumuz dünyada qurulmuş açıq dünya RPG oyunudur. Tanış və yeni məkanlara səyahət edin, sehrli canavarları kəşf edin, xarakterinizi fərdiləşdirin, iksirlər, usta sehrlər hazırlayın, bacarıqlarınızı təkmilləşdirin və həmişə olmaq istədiyiniz sehrbaz olun.",
+      "category": "Fəaliyyət, Macəra, RPG",
+      "image": "https://cdn1.epicgames.com/offer/e97659b501af4e3981d5430dad170911/EGS_HogwartsLegacy_AvalancheSoftware_S2_1200x1600-2bb94423bf1c7e2fca10577d9f2878b9?h=480&quality=medium&resize=1&w=360",
+      "rating": {
+        "rate": 4.8,
+        "count": 155
+      },
+      "bg": "https://images8.alphacoders.com/110/thumb-1920-1102284.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Shadow of the Tomb Raider: Definitive Edition",
+      "price": 29.99,
+      "description": "Shadow of the Tomb Raider Definitive Edition-da Lara'nın mənşəyinin son fəslini yaşayın, çünki o, olacağı Tomb Raider-ə daxil olur. Əsas oyunu, bütün yeddi DLC çağırış məzarını, eləcə də bütün yüklənə bilən silahları, geyimləri və bacarıqları birləşdirən Shadow of the Tomb Raider Definitive Edition Laranın həlledici anını yaşamaq üçün ən yaxşı yoldur.",
+      "category": "Fəaliyyət, Macəra",
+      "image": "https://cdn1.epicgames.com/offer/4b5461ca8d1c488787b5200b420de066/egs-shadowofthetombraiderdefinitiveedition-eidosmontralcrystaldynamicsnixxessoftware-s4-1200x1600-7ee40d6fa744_1200x1600-950cdb624cc75d04fe3c8c0b62ce98de?h=480&quality=medium&resize=1&w=360",
+      "rating": {
+        "rate": 4.7,
+        "count": 170
+      },
+      "bg": "https://i.pinimg.com/originals/bb/b3/9b/bbb39b32133020f19ac62350a9507551.jpg"
+    },
+    {
+      "title": "Yakuza: Like a Dragon Hero Edition",
+      "price": "69.99",
+      "description": "Ən çox güvəndiyi adamın ölüm astanasında qoyub getdiyi aşağı rütbəli yakuza İchiban Kasuqa ol. Əfsanəvi yarasanızı götürün və müasir Yaponiya fonunda dinamik RPG döyüşlərində bəzi yeraltı kəllələri sındırmağa hazırlaşın.",
+      "category": "Fəaliyyət, Macəra, RPG",
+      "image": "https://images.gog-statics.com/b91ab2a65a115697dce7cd48c818115563801e0943761c83aaebafafa6367084_bg_crop_1680x655.jpg",
+      "bg": "https://images.gog-statics.com/b91ab2a65a115697dce7cd48c818115563801e0943761c83aaebafafa6367084_bg_crop_1680x655.jpg",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "title": "The Witcher 3: Wild Hunt – Complete Edition",
+      "discount": "-70%",
+      "price": 7.49,
+      "discountprice": 24.97,
+      "description": "Kirayəlik əfsanəvi canavar ovçusu Geralt of Rivia rolunu üzərinə götürün. Canavarlarla örtülmüş müharibədən dağıdılmış qitə sizi kəşf etmək üçün gözləyir. Növbəti müqaviləniz dünyanı yenidən formalaşdırmağa qadir olan canlı silah olan Ciri, Peyğəmbərliyin Uşağını tapmaqdır.",
+      "category": "Fəaliyyət, Hekayə, Açıq Dünya,Fantastika",
+      "image": "https://images.gog-statics.com/7809c7dbb669c753234bf81df927521d2084f54e14f97ad1a3fecfbac10f2df4_bg_crop_1680x655.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 146
+      },
+      "bg": "https://i5.walmartimages.com/asr/46cb7a57-b095-4e47-838f-02aa9a302736.04d9f7fc1c110ce1a42dc89025c508fe.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Far Cry® 6",
+      "price": 32.99,
+      "description": "Hope Town, Montana xoş gəlmisiniz. Bu, azad və cəsurların şəhəridir, lakin eyni zamanda Cənnət Qapısı adlı apokaliptik kultun qərargahıdır. Kult lideri Cozef Seedə və onun qardaşları olan Evangelistlərə qarşı səsinizi qaldırın və şəhəri azad edəcək müqavimətə səbəb olun.",
+      "category": "Fəaliyyət, Hekayə, Açıq Dünya,Fantastika",
+      "image": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD%20EDITION_EPIC_Store_Portrait_1200x1600-1200x1600-ca8b802ff13813c37a44ebf68d0946a2.png?h=480&quality=medium&resize=1&w=360",
+      "rating": {
+        "rate": 4.4,
+        "count": 146
+      },
+      "bg": "https://www.planetzone.nl/wp-content/uploads/Far-Cry-6-keyart.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "price": 14.99,
+      "description": "Cyberpunk, cəmiyyətin çöküşü, distopiya və ya dekay ilə yanaşı süni intellekt və kibernetika kimi futuristik texnoloji və elmi nailiyyətləri özündə əks etdirən aşağı həyat və yüksək texnologiyanın birləşməsinə diqqət yetirən distopik futuristik mühitdə elmi fantastikanın alt janrıdır.",
+      "category": "Fəaliyyət, Hekayə",
+      "image": "https://images.gog-statics.com/90b287f4b41f72d83b72fc6bb282f423e7672fc9709351c8be4702ea502b7d63_bg_crop_1680x655.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 186
+      },
+      "bg": "https://images.gog-statics.com/90b287f4b41f72d83b72fc6bb282f423e7672fc9709351c8be4702ea502b7d63_bg_crop_1680x655.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Battlefield™ 2042",
+      "price": 59.99,
+      "description": "Battlefield™ 2042, seriyanın hərtərəfli müharibəyə simvolik qayıdışından xəbər verən birinci şəxs atıcıdır. Yaxın gələcəkdə pozulmuş dünyaya uyğunlaşın və çətinliklərin öhdəsindən gəlin. Heyətinizi qurun və 128 oyunçunu, bənzərsiz miqyasda və epik məhvi dəstəkləyən dinamik dəyişən döyüş meydanlarına ən yaxşı arsenalınızı aparın.",
+      "category": "Atıcı, Birinci Şəxs",
+      "image": "https://cdn1.epicgames.com/offer/52f57f57120c440fad9bfa0e6c279317/EGS_Battlefield2042_DICE_S2_1200x1600-331f59b6877d2bf2194943fcf7a68048_1200x1600-331f59b6877d2bf2194943fcf7a68048?h=480&quality=medium&resize=1&w=360",
+      "rating": {
+        "rate": 4.6,
+        "count": 126
+      },
+      "bg": "https://insider-gaming.com/wp-content/uploads/2023/01/battlefield-2042-season-4.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Horizon Zero Dawn™ Complete Edition",
+      "price": 25.99,
+      "description": "Horizon Zero Dawn™ mükafat qazanmış rol oyunudur və bu Tam Buraxılışda yeni səltənətlər, qabiliyyətlər, silahlar və Maşınlar ehtiva edən böyük The Frozen Wilds genişlənməsi daxildir.",
+      "category": "Fəaliyyət, Macəra, RYO",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1151640/header.jpg?t=1667297464",
+      "rating": {
+        "rate": 4.5,
+        "count": 156
+      },
+      "bg": "https://wallpapercave.com/wp/wp6949964.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Atomic Heart",
+      "price": 27.99,
+      "description": "1950-ci illərin alternativ reallığının tarixi İkinci Dünya Müharibəsi zamanı robototexnika və qabaqcıl texnologiyanın inkişafı ilə bağlıdır. Oyun dünyası bəşəriyyətin bu gün uğrunda mübarizə apardığı ideallardan o qədər də uzaq deyil. Xoşbəxt cəmiyyət",
+      "category": "Fəaliyyət, Macəra, RYO",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d3/Atomic_Heart_cover.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 124
+      },
+      "bg": "https://www.godisageek.com/wp-content/uploads/Atomic-Heart-review.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Minecraft",
+      "price": 13.99,
+      "description": "oyunçular müəyyən bloklar və əşyalar hazırlamaq üçün ətraf mühitdə olan ağac və daş kimi təbii ehtiyatları toplamalıdırlar.[26] Çətinlikdən asılı olaraq, canavarlar xarakterin müəyyən radiusundan kənarda olan qaranlıq ərazilərdə kürü tökür və oyunçulardan gecələr sığınacaq tikmələrini tələb edir.[26] Bu rejimdə, həmçinin dəstələrin hücumları, yıxılma, boğulma, lavaya düşmə, boğulma, aclıq və digər hadisələrlə tükənən sağlamlıq çubuğu var.[44] Oyunçuların da aclıq barı var",
+      "category": "Fəaliyyət, Macəra, Açıq Dünya",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png",
+      "rating": {
+        "rate": 4.8,
+        "count": 164
+      },
+      "bg": "https://cdn2.tfx.company/images/thumb-1920-1128578.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Fallout 3: Game of the Year Edition",
+      "price": 19.99,
+      "description": "Fallout 3: İlin Oyunu ilə 2008-ci ilin ən məşhur oyununu heç vaxt olmadığı kimi yaşayın. Seçdiyiniz personajı yaradın və hər dəqiqənin yaşamaq uğrunda mübarizə olduğu heyranedici, post-apokaliptik dünyaya enin. Fallout 3: İlin Oyunu Buraxılışına Fallout 3-ün beşi də daxildir",
+      "category": "Fəaliyyət, Macəra, Açıq Dünya",
+      "image": "https://cdn1.epicgames.com/offer/fa702d34a37248ba98fb17f680c085e3/EGS_Fallout3GameoftheYearEdition_BethesdaGameStudios_S2_1200x1600-e2ba392652a1f57c4feb65d6bbd1f963?h=480&quality=medium&resize=1&w=360",
+      "rating": {
+        "rate": 4.4,
+        "count": 164
+      },
+      "bg": "https://images5.alphacoders.com/326/326690.jpg"
+    },
+    {
+      "id": 16,
+      "title": "The Last of Us™ Part I",
+      "price": 49.99,
+      "description": "Xəstə və amansız sağ qalanların hər yerdə gəzdiyi viran edilmiş sivilizasiyada sağ qalan baş qəhrəman Coel 14 yaşlı Ellini hərbi karantin zonasından çıxarmaq üçün işə götürülür. Əvvəlcə kiçik bir məsələ kimi görünən şey ölkə daxilində amansız bir səyahətə çevrilir.",
+      "category": "Fəaliyyət, Macəra",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1888930/header.jpg?t=1678808054",
+      "rating": {
+        "rate": 4.7,
+        "count": 164
+      },
+      "bg": "https://images8.alphacoders.com/532/thumb-1920-532407.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Dragon Age™: Origins - Ultimate Edition",
+      "price": 21.59,
+      "discount": "-10%",
+      "category": "none",
+      "image": "https://images.gog-statics.com/102805a919d1c78e90d46ef6028c6e3a42eff2ed376586a52f0ce572be28772e_bg_crop_1680x655.jpg",
+      "description": "Lovecraft Sherlock Holmes krossoveri ilə qarşılaşır, The Awakened sizi əfsanəvi Cthulhu Mythos'a qarşı qoyur. Qədim Tanrıya ibadət edən qaranlıq bir kultla əlaqəli bir sıra sirli itmələri araşdırın.",
+      "bg": "hhttps://images.gog-statics.com/102805a919d1c78e90d46ef6028c6e3a42eff2ed376586a52f0ce572be28772e_bg_crop_1680x655.jpg"
+    },
+    {
+      "id": 18,
+      "title": "ELDEN RING",
+      "price": 27.99,
+      "discount": "-80%",
+      "discountprice": "50.38",
+      "category": "Fəaliyyət, Macəra, RolePlay",
+      "image": "https://i.pinimg.com/originals/f2/f2/ff/f2f2ff5f5078acbd7d4acb0d337c99d5.jpg",
+      "description": "Gözlərlə dolu nəhəng bir dünya Müxtəlif hadisələri ehtiva edən açıq torpaqların mürəkkəb və üç ölçülü dizaynlı böyük zindanlarla görüşdüyü nəhəng bir dünya. Səyahətləriniz zamanı sizi naməlumları kəşf etmək və təhdidləri dəf etmək üçün bu məmnunedici nailiyyət hissi gözləyir.",
+      "bg": "https://i.pinimg.com/originals/f2/f2/ff/f2f2ff5f5078acbd7d4acb0d337c99d5.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Lineage II",
+      "price": 32.99,
+      "discount": "-71%",
+      "category": "Fəaliyyət, Macəra, RYO",
+      "image": "https://www.turkmmo.com/wp-content/uploads/2016/10/lineage-2-58062a22d07b4.jpg",
+      "description": "Cyberpunk, cəmiyyətin çöküşü, distopiya və ya dekay ilə yanaşı süni intellekt və kibernetika kimi futuristik texnoloji və elmi nailiyyətləri özündə əks etdirən aşağı həyat və yüksək texnologiyanın birləşməsinə diqqət yetirən distopik futuristik mühitdə elmi fantastikanın alt janrıdır.",
+      "bg": "https://www.1zoom.me/big2/273/309999-Sepik.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Read Dead Redemption 2",
+      "price": 35.99,
+      "discount": "-50%",
+      "category": "Fəaliyyət, Macəra, RYO",
+      "image": "https://w0.peakpx.com/wallpaper/20/49/HD-wallpaper-red-dead-redemption-2-2021-red-dead-redemption-2-games-2021-games.jpg",
+      "description": "Amerika, 1899.Artur Morqan və Van der Linde dəstəsi qaçır. Federal agentlərin və ölkənin ən yaxşı lütf ovçularının amansız təqibi altında dəstə üzvləri soymağa, qarət etməyə və Amerikanın məhəbbət bölgəsinin kobud ərazisini keçərək sağ qalmaq üçün mübarizə aparmağa davam etməlidirlər. Bu prosesdə daxili konfliktləri dərinləşən dəstə indi dağılmaq ərəfəsində olduğu halda, Artur da çətin seçim qarşısındadır: onu böyüdən dəstəyə sadiq qalacaq, yoxsa öz idealları ilə gedəcək?",
+      "bg": "https://w0.peakpx.com/wallpaper/20/49/HD-wallpaper-red-dead-redemption-2-2021-red-dead-redemption-2-games-2021-games.jpg"
+    },
+    {
+      "id": 21,
+      "title": "The Legend of Zelda tears of the kingdom®",
+      "image": "https://cdn.artstation.com/p/thumbnails/001/322/333/thumb.jpg",
+      "bg": "https://cdn.artstation.com/p/thumbnails/001/322/333/thumb.jpg",
+      "description": "The Legend of Zelda tears of the kingdom® II-də geri qayıdan əfsanəvi Missiya Heyəti 141 Operatorları ilə biz özümüzü görünməmiş qlobal münaqişənin ortasında tapırıq. Kiçik miqyaslı, lakin yüksək riskli infiltrasiyalardan tutmuş gizli missiyalara qədər müxtəlif kampaniyalarda dostlarınızla vuruşun.",
+      "category": "Fəaliyyət, açıq dünya ,snayper",
+      "price": 78.99
+    },
+    {
+      "id": 22,
+      "title": "God Of War  Ragnarok",
+      "image": "https://images.alphacoders.com/117/1173124.jpg",
+      "description": "Olympus tanrılarına qarşı intiqamını illər geridə qoymuş Kratos indi Norse Tanrıları və canavarları səltənətində bir insan kimi yaşayır. Məhz bu sərt, bağışlanmaz dünyada o, sağ qalmaq üçün mübarizə aparmalı və oğluna da bunu öyrətməlidir.",
+      "category": "Fəaliyyət, Hekayə, Açıq Dünya",
+      "price": 28.99,
+      "bg": "https://images3.alphacoders.com/128/1287842.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Assassin's Creed® Valhalla",
+      "image": "https://images4.alphacoders.com/107/thumb-1920-1077274.jpg",
+      "description": "Efsanevi Viking savaşçısı olarak şanlı bir mücadeleye atılın. Düşmanlar üzerine akınlar yapın, yerleşiminizi genişletin, egemenliğinizi pekiştirin.",
+      "category": "Fəaliyyət, Hekayə, Açıq Dünya",
+      "price": 18.99,
+      "bg": "https://images.alphacoders.com/128/1282914.jpg"
+    },
+    {
+      "id": 24,
+      "image": "https://cdn1.epicgames.com/offer/af0ea01162704696bebf8633a52a7a6d/EGS_CrimeBossRockayCity_InGameStudios_S2_1200x1600-4ada7f14d1e8ea1e81f1a8037253121c?h=480&quality=medium&resize=1&w=360",
+      "title": "Crime Boss: Rockay City",
+      "price": "31.19",
+      "discountprice": "38.99",
+      "discount": "-20%",
+      "description": "Keçmiş mafiya başçısının ölümündən sonra yeni Rockay City King axtarılır. Taxt uğrunda mübarizə aparan tək sən deyilsən. Bacarıqlarınız əsasında komandanızı seçin və pul, ərazi və tac qazanmaq ümidi ilə cəsarətli missiyaları tamamlayın.",
+      "category": "RolePlay",
+      "bg": "https://pbs.twimg.com/media/FmSYMTHXkAYgq5o.jpg:large"
+    },
+    {
+      "id": 25,
+      "image": "https://cdn1.epicgames.com/offer/0d23bb77ee2f45b7a571bde68caddb09/EGS_SaintsRow_DeepSilverVolition_S2_1200x1600-d95f6c911a764ad44302f021a3174a24?h=480&quality=medium&resize=1&w=360",
+      "title": "Saints Row",
+      "price": "$13.94",
+      "discountprice": "30.99",
+      "discount": "-55%",
+      "description": "Yanınızda dostlarınız Neenah, Kevin və Eli ilə gələcək Mafiya Boss kimi Müqəddəslər dəstəsini təşkil edəcək, şəhərin küçələrində imperiyanızı böyüdərək şəhərə nəzarət etmək üçün mübarizə apararkən Los Panteros, İdols və Marşal dəstələri ilə mübarizə aparacaqsınız. Santo İleso. Əslində, Saints Row bir növ başlanğıc hekayəsidir. Yeganə fərq odur ki, müqəddəslər dəstəsinin işi cinayət törətməkdir.",
+      "category": "Fəaliyyət, açıq dünya ,snayper",
+      "bg": "https://cdn.wallpapersafari.com/27/18/oXUdMQ.jpg"
+    },
+    {
+      "id": 26,
+      "image": "https://cdn1.epicgames.com/4158b699dd70447a981fee752d970a3e/offer/EGS_KINGDOMHEARTSHD1525ReMIX_SquareEnix_S6-1200x1600-132fc1f63bf40a41cddbff3bab7acc52.jpg?h=480&quality=medium&resize=1&w=360",
+      "title": "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
+      "price": "$26.99",
+      "discountprice": "44.99",
+      "discount": "-40%",
+      "description": "KINGDOM HEARTS HD 1.5 + 2.5 ReMIX HD formatında yenidən işlənmiş 6 unudulmaz KINGDOM HEARTS təcrübəsinin toplusudur. KINGDOM HEARTS HD 1.5 + 2.5 ReMIX Disney aləmlərini qaranlıqdan xilas etmək üçün Klaviaturadan istifadə etmək üçün əla fürsət təqdim edir.",
+      "category": "RYO",
+      "bg": "https://wallpaperset.com/w/full/f/d/b/245128.jpg"
+    },
+    {
+      "id": 27,
+      "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/MetroExodus-PCEnhancedEdition_S2_1200x1600-64a550825c1427140460cc3a86cafdb5?h=480&quality=medium&resize=1&w=360",
+      "title": "Metro Exodus Standard Edition",
+      "price": "$3.74",
+      "discountprice": "14.99",
+      "discount": "-75%",
+      "description": "2034-cü ildir. Post-apokaliptik Moskvanın xarabalıqları altında, Metro tunellərində bəşəriyyətin qalıqları xaricdən və daxildən ölümcül təhlükələrlə mühasirəyə alınıb. Mutantlar kimsəsiz səthin altındakı katakombaları izləyir və yuxarıdakı zəhərli səmaların arasında ovlayırlar.",
+      "category": "Fəaliyyət, Hekayə",
+      "bg": "https://wallpapercave.com/wp/wp4519500.jpg"
+    },
+    {
+      "id": 28,
+      "image": "https://cdn1.epicgames.com/0712176b5e3e49bfa8866c0ee1359f2d/offer/EGS_KINGDOMHEARTSIIIReMindDLC_SquareEnix_S6-1200x1600-54d8b062dc7488c71874fe2455d6c2bd.jpg?h=480&quality=medium&resize=1&w=360",
+      "title": "KINGDOM HEARTS III + Re Mind (DLC)",
+      "price": "$32.99",
+      "discountprice": "54.99",
+      "discount": "-40%",
+      "description": "KINGDOM HEARTS HD 1.5 + 2.5 ReMIX HD formatında yenidən işlənmiş 6 unudulmaz KINGDOM HEARTS təcrübəsinin toplusudur. KINGDOM HEARTS HD 1.5 + 2.5 ReMIX Disney aləmlərini qaranlıqdan xilas etmək üçün Klaviaturadan istifadə etmək üçün əla fürsət təqdim edir.",
+      "category": "RYO",
+      "bg": "https://wallpaperset.com/w/full/f/d/b/245128.jpg"
+    },
+    {
+      "id": 29,
+      "image": "https://cdn1.epicgames.com/offer/petunia/metro_2033_epic_tile_1200x1600_1200x1600-c126d15c1891a94e95491ae3cd056948?h=480&quality=medium&resize=1&w=360",
+      "title": "Metro 2033 Redux",
+      "price": "$2.59",
+      "discountprice": "12.99",
+      "discount": "-80%",
+      "description": "2034-cü ildir. Post-apokaliptik Moskvanın xarabalıqları altında, Metro tunellərində bəşəriyyətin qalıqları xaricdən və daxildən ölümcül təhlükələrlə mühasirəyə alınıb. Mutantlar kimsəsiz səthin altındakı katakombaları izləyir və yuxarıdakı zəhərli səmaların arasında ovlayırlar.",
+      "category": "Fəaliyyət, Hekayə",
+      "bg": "https://wallpapercave.com/wp/wp4663588.jpg"
+    },
+    {
+      "id": 30,
+      "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WRC10FIAWorldRallyChampionship_KTRacing_S2_1200x1600-f1f76e27c255d020f2994932289b3a69?h=480&quality=medium&resize=1&w=360",
+      "title": "WRC 10 FIA World Rally Championship",
+      "price": "$13.59",
+      "discountprice": "33.99",
+      "discount": "-60%",
+      "description": "50 illik yubileyini qeyd etmək üçün WRC 10 yeni məzmun və təcrübələrlə dolu yeni yubiley buraxılışı ilə gəlir. 1973-cü ildən bu günə qədər ən nəfəs kəsən anları yaşayın! WRC 10-un Tarix Rejimi zamanın şərtlərinə uyğunlaşmağı tələb edəcək 19 tarixi yarışla sürücülük bacarıqlarınızı sınayır.",
+      "category": "Racing",
+      "bg": "https://wallpapercave.com/wp/wp9476827.jpg"
+    },
+    {
+      "id": 31,
+      "image": "https://cdn1.epicgames.com/undefined/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg?h=480&quality=medium&resize=1&w=360",
+      "title": "Kingdom Come: Deliverance",
+      "price": "$3.62",
+      "discountprice": "14.49",
+      "discount": "-75%",
+      "description": "Kingdom Come: Deliverance, Müqəddəs Roma İmperiyasının torpaqlarında epik macəraya başlaya biləcəyiniz hekayəyə əsaslanan, açıq dünya rolu oyunudur. İşğalçılarla mübarizə aparın, yenilikçi missiyalara başlayın, effektiv qərarlar qəbul edin və ailənizin qisasını alın.",
+      "category": "Fəaliyyət, Macəra, Açıq Dünya",
+      "bg": "https://images.alphacoders.com/904/904034.jpg"
+    },
+    {
+      "id": 32,
+      "image": "https://cdn1.epicgames.com/offer/91b9a3ac7cda40718addd961fddfadca/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S2_1200x1600-4b9fbee303df3621dcd280e9591bc2b9?h=480&quality=medium&resize=1&w=360",
+      "title": "Vampire: The Masquerade – Swansong",
+      "price": "$18.69",
+      "discountprice": "33.99",
+      "discount": "-45%",
+      "description": "Seçimlərinizin Bostonun taleyini təyin edəcəyi bu ürək döyüntüslü hekayədə 3 vampir kimi oynayın, güclərini ağılla istifadə edin və insanları və canlıları tarazlayın.",
+      "category": "RYO",
+      "bg": "https://cdn.wccftech.com/wp-content/uploads/2021/11/WCCFvampiremasqueradeswansong1.jpg"
+    },
+    {
+      "id": 33,
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1659420/header_turkish.jpg?t=1672777947",
+      "title": "UNCHARTED™: Hırsızlar Mirası Koleksiyonu",
+      "price": "22.94",
+      "description": "UNCHARTED: Legacy of Thieves Collection-da bəxtinizi axtarın və xəritədə öz izinizi buraxın. Sevimli oğruların – Nathan Drake və Chloe Frazer-in bütün ağlı, hiyləgərliyi və ən yaxşı anları ilə dolu UNCHARTED franşizasında həyəcanlandıran kino hekayələrini və ən böyük blokbaster hərəkət dəstini kəşf edin.",
+      "category": "Fəaliyyət, Macəra, Açıq Dünya",
+      "bg": "https://i.pinimg.com/originals/a8/c9/91/a8c991f2d565723665b450e2cf938d6e.jpg"
+    },
+    {
+      "id": 34,
+      "title": "Assassin's Creed® Valhalla",
+      "price": 29.99,
+      "description": "Assassin's Creed® Valhalla-da Lara'nın mənşəyinin son fəslini yaşayın, çünki o, olacağı Valhalla-ə daxil olur. Əsas oyunu, bütün yeddi DLC çağırış məzarını, eləcə də bütün yüklənə bilən silahları, geyimləri və bacarıqları birləşdirən Shadow of the Tomb Raider Definitive Edition Laranın həlledici anını yaşamaq üçün ən yaxşı yoldur.",
+      "category": "Fəaliyyət, Macəra",
+      "image": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC%20KINGDOM%20PREORDER_STANDARD%20EDITION_EPIC_Key_Art_Portrait_640x854-640x854-288120c5573756cb988b6c1968cebd86.png",
+      "rating": {
+        "rate": 4.7,
+        "count": 170
+      },
+      "bg": "https://images4.alphacoders.com/107/thumb-1920-1077274.jpg"
+    },
+    {
+      "id": 35,
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/901583/header.jpg?t=1509997232",
+      "title": "Grand Theft Auto IV: Premium Edition",
+      "price": "18.69",
+      "description": "Seçimlərinizin Bostonun taleyini təyin edəcəyi bu ürək döyüntüslü hekayədə 3 vampir kimi oynayın, güclərini ağılla istifadə edin və insanları və canlıları tarazlayın.",
+      "category": "Fəaliyyət, Macəra, Açıq Dünya",
+      "bg": "https://images4.alphacoders.com/601/601980.jpg"
+    },
+    {
+      "id": 36,
+      "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiMSRacing_RacewardStudio_S2_1200x1600-249d07ee346663646e18e978c50df616?h=480&quality=medium&resize=1&w=360",
+      "title": "RiMS Racing",
+      "price": "15.29",
+      "description": "Yarışlar təkcə trasda qalib gəlmir, ona görə də siz velosipedin davranışını əsl mühəndis kimi anlayaraq bir atlıdan daha çox olmalısınız. İdarəetmə, bucaq, əyləc, fırlanma momenti, döngə, sürət... Müəyyən hissələri dəyişdirmək və ən uyğun kombinasiyanı təyin etmək üçün emalatxanaya getməzdən əvvəl hər bir amili nəzərə almalısınız.",
+      "category": "Racing",
+      "bg": "https://wallpapercave.com/wp/wp10224205.jpg"
+    },
+    {
+      "id": 37,
+      "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/MetroExodus-PCEnhancedEdition_S2_1200x1600-64a550825c1427140460cc3a86cafdb5?h=480&quality=medium&resize=1&w=360",
+      "title": "Metro Exodus Standard Edition",
+      "price": "3.74",
+      "description": "2034-cü ildir. Post-apokaliptik Moskvanın xarabalıqları altında, Metro tunellərində bəşəriyyətin qalıqları xaricdən və daxildən ölümcül təhlükələrlə mühasirəyə alınıb. Mutantlar kimsəsiz səthin altındakı katakombaları izləyir və yuxarıdakı zəhərli səmaların arasında ovlayırlar.",
+      "category": "Fəaliyyət, Hekayə",
+      "bg": "https://images8.alphacoders.com/993/993237.png"
+    },
+    {
+      "id": 38,
+      "image": "https://cdn1.epicgames.com/offer/4ec958d5e4b6429aadbc116cee0b6ea0/EGS_DeadSpace_MotiveStudio_S2_1200x1600-551c16d068cab45b02149e15a43c2413?h=480&quality=medium&resize=1&w=360",
+      "title": "Dead Space",
+      "price": "59.99",
+      "description": "Elmi-fantastik sağ qalma qorxusu klassik Dead Space™ daha dərin və daha təsirli təcrübə təqdim etmək üçün tamamilə yenidən işlənmiş şəkildə qayıdır. Bu remeyk heyrətamiz vizual dərinlik, immersiv atmosfer səsləri və oyun təkmilləşdirmələri gətirir, eyni zamanda orijinal oyunun maraqlı vizyonuna sadiq qalır.",
+      "category": "Fəaliyyət, Hekayə, Açıq Dünya,Fantastika",
+      "bg": "https://images4.alphacoders.com/283/thumb-1920-283386.jpg"
+    },
+    {
+      "id": 39,
+      "image": "https://cdn1.epicgames.com/undefined/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg?h=480&quality=medium&resize=1&w=360",
+      "title": "Kingdom Come: Deliverance",
+      "price": "3.62",
+      "description": "Kingdom Come: Deliverance, Müqəddəs Roma İmperiyasının torpaqlarında epik macəraya başlaya biləcəyiniz hekayəyə əsaslanan, açıq dünya rolu oyunudur. İşğalçılarla mübarizə aparın, yenilikçi missiyalara başlayın, effektiv qərarlar qəbul edin və ailənizin qisasını alın.",
+      "category": "Fəaliyyət, Hekayə",
+      "bg": "https://images.alphacoders.com/904/904034.jpg"
+    },
+    {
+      "id": 40,
+      "image": "https://cdn1.epicgames.com/offer/viola/EGS_OutwardDefinitiveEdition_NineDotsStudio_S2_1200x1600-f5f4081000c9298ef4b8a6c26219932c?h=480&quality=medium&resize=1&w=360",
+      "title": "Outward Definitive Edition",
+      "price": "6.99",
+      "description": "Outward, gecə şaxtası və ya yoluxmuş yaranın qaranlıqda gizlənən yırtıcı kimi təhlükəli ola biləcəyi açıq dünya RPG oyunudur. Aurainin geniş dünyasını kəşf edin, təkbaşına və ya dostlarınızla unudulmaz macəralara çıxın, amma nə edirsinizsə, bel çantanızı götürməyin."
+    },
+    {
+      "id": 41,
+      "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RogueLords_LeikirStudio_S2_1200x1600-b126536afcbcde9099a843c629500ff8?h=480&quality=medium&resize=1&w=360",
+      "title": "Rogue Lords",
+      "price": "6.74",
+      "description": "Cin kimi oynadığınız qaranlıq və fantaziya roguelike! Qorxu və korrupsiyanı yaymaq üçün hadisələrdə və növbəli döyüşlərdə bədnam dahilərə rəhbərlik edin. İzləyiciləriniz arasında sinerji yaradın, pis güclərinizdən istifadə edin və özünü saleh Demon Ovçularını nümayiş etdirin!"
+    },
+    {
+      "id": 42,
+      "image": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg?h=480&quality=medium&resize=1&w=360",
+      "title": "WRC 8 FIA World Rally Championship",
+      "price": "5.99",
+      "description": "50 illik yubileyini qeyd etmək üçün WRC 10 yeni məzmun və təcrübələrlə dolu yeni yubiley buraxılışı ilə gəlir. 1973-cü ildən bu günə qədər ən nəfəs kəsən anları yaşayın! WRC 10-un Tarix Rejimi zamanın şərtlərinə uyğunlaşmağı tələb edəcək 19 tarixi yarışla sürücülük bacarıqlarınızı sınayır."
+    },
+    {
+      "id": 43,
+      "image": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthblood_CyanideStudio_S2-1200x1600-2e3baa62e063efbbb07dfdefa5def268.jpg?h=480&quality=medium&resize=1&w=360",
+      "title": "Werewolf: The Apocalypse – Earthblood",
+      "price": "11.99",
+      "description": "Siz qəzəbinə tab gətirərək nəzarəti itirdikdən sonra özünü sürgünə məhkum edən Cahal adlı güclü Qaru kimi oynayırsınız. Qurtuluş və qisas uğrunda mübarizəyə başlayan Cahal, Garoular və dünyanı viran qoyan şər ruh Wyrm və ona xidmət edən Endron neft şirkəti arasında şiddətli müharibədə əsas rol oynayır."
+    },
+    {
+      "id": 44,
+      "image": "https://cdn1.epicgames.com/offer/5c7a78e0c4d640898d690c5e38c0392f/EGS_FootballManager2023_SportsInteractive_S2_1200x1600-f3675b8335f3ebe5837d7d525764f4ab?h=480&quality=medium&resize=1&w=360",
+      "title": "Football Manager 2023",
+      "price": "39.99",
+      "description": "Xəyal etdiyiniz komanda yaradın, rəqiblərinizi qabaqlayın və UEFA Çempionlar Liqasında böyük Avropa gecələrinin həyəcanını yaşayın. Futbolda qələbəyə aparan səyahətiniz sizi gözləyir."
+    },
+    {
+      "id": 45,
+      "image": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9FIAWorldRallyChampionship_KTRacing_S2-1200x1600-2e92991d2eb3440be53f4c41a53d1b3b.jpg?h=480&quality=medium&resize=1&w=360",
+      "title": "WRC 9 FIA World Rally Championship",
+      "price": "8.99",
+      "description": "50 illik yubileyini qeyd etmək üçün WRC 10 yeni məzmun və təcrübələrlə dolu yeni yubiley buraxılışı ilə gəlir. 1973-cü ildən bu günə qədər ən nəfəs kəsən anları yaşayın! WRC 10-un Tarix Rejimi zamanın şərtlərinə uyğunlaşmağı tələb edəcək 19 tarixi yarışla sürücülük bacarıqlarınızı sınayır."
+    },
+    {
+      "id": 46,
+      "image": "https://cdn1.epicgames.com/offer/oregano/an18-store-portrait-1200x1600-1200x1600-665115795_1200x1600-a714948f3c93306d618c279edded0525?h=480&quality=medium&resize=1&w=360",
+      "title": "Anno 1800 Standard Edition",
+      "price": "32.99",
+      "description": "Anno 1800, Blue Byte tərəfindən hazırlanmış və Ubisoft tərəfindən nəşr edilmiş, 16 aprel 2019-cu ildə Şimali Amerikada buraxılmış şəhər quran real vaxt strategiyası video oyunudur."
+    },
+    {
+      "id": 47,
+      "image": "https://cdn1.epicgames.com/offer/151e56468b5049628653dedab7c88007/EGS_SaintsRowIVReElected_DeepSilverVolition_S2_1200x1600-7607305fd444a7dab171d4404dbe7ff0?h=480&quality=medium&resize=1&w=360",
+      "title": "Saints Row IV Re-Elected",
+      "price": "3.74",
+      "description": "Sən indi prezidentsən! Saints komandası Penthouse otelini tərk edərək Ağ Evdə məskunlaşdı, lakin Yer zəbt edildi və həm super gücləriniz, həm də qəribə silahlarınızla dünyanı indiyə qədərki ən çılğın açıq dünya oyununda xilas etmək sizə bağlıdır."
+    },
+    {
+      "id": 48,
+      "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KingsBountyII_1CEntertainment_S2_1200x1600-93fd192261be8f0f0c7834f9de94eac9?h=480&quality=medium&resize=1&w=360",
+      "title": "King's Bounty II",
+      "price": "9.37",
+      "description": "Əfsanə geri döndü! King's Bounty II, növbəli RPG janrının ən mühüm nümunələrindən biri olan əfsanəvi King's Bounty seriyasının yeni oyunudur. Öz gələcəyiniz üçün mübarizə aparın, çətin qərarları düzgün qəbul edin və yeni, maraqlı təcrübədə klassik dastanı kəşf edin."
+    },
+    {
+      "id": 49,
+      "image": "https://cdn1.epicgames.com/spt-assets/aec31192b8a6463c9bd43dcb6ece5c8f/download-achilles-legends-untold-offer-kiu24.jpg?h=480&quality=medium&resize=1&w=360",
+      "title": "Achilles Legends Untold",
+      "price": "6.99",
+      "description": "Fəaliyyət RPG və mürəkkəb döyüş sisteminin bu roman qarışığında bacarıqlarınızı inkişaf etdirin. İzometrik görünüş ilə yeni oyun təcrübəsi. Xarakterinizi təkmilləşdirin, düşmənlərinizi müşahidə edin və onlara qarşı strategiyalar hazırlayın. Cəsur bir döyüşçü kimi şücaətinizi göstərin!"
+    },
+    {
+      "id": 50,
+      "image": "https://cdn1.epicgames.com/offer/c5e786eddfd041caa9984213e3f9621d/metro_last_light_epic_tile_1200x1600_1200x1600-d4f66fca79c098f57e6759dedb6c6565?h=480&quality=medium&resize=1&w=360",
+      "title": "Metro Last Light Redux",
+      "price": "2.59",
+      "description": "2034-cü ildir. Post-apokaliptik Moskvanın xarabalıqları altında, Metro tunellərində bəşəriyyətin qalıqları xaricdən və daxildən ölümcül təhlükələrlə mühasirəyə alınıb. Mutantlar kimsəsiz səthin altındakı katakombaları izləyir və yuxarıdakı zəhərli səmaların arasında ovlayırlar."
+    },
+    {
+      "id": 51,
+      "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SiegeSurvivalGloriaVictis_BlackEyeGames_S2_1200x1600-98d796393f1362a21e86365767750ae3?h=480&quality=medium&resize=1&w=360",
+      "title": "Siege Survival - Gloria Victis",
+      "price": "3.24",
+      "description": "Mühasirədə olan orta əsr şəhəri və divarların uçmaması üçün mübarizə aparan bir ovuc mülki şəxs. Sağ qalma strategiyasını resursların idarə edilməsi ilə birləşdirərək, düşərgənizi qurun, təchizat istehsal edin və işğalçılara qarşı duran sonuncu qoşuna kömək etmək üçün işğal olunmuş şəhəri talayın."
+    },
+    {
+      "id": 52,
+      "image": "https://cdn1.epicgames.com/3928fd8975b2437d894bbc5cd21de9a0/offer/Diesel_productv2_saints-row-the-third-remastered_home_Featured_Carousel_Mobile_vertical-510x680-e7d02c2f0366fa47ae70307fb2150f2c9f196b81-510x680-d4340d2ec1bc57821ad4acbea0ead8be.jpg?h=480&quality=medium&resize=1&w=360",
+      "title": "Saints Row®: The Third™  Remastered",
+      "price": "4.99",
+      "description": "Stilwater-ı özlərinə götürdükdən illər sonra, Third Street Saints, Saints idman ayaqqabıları, Saints enerji içkiləri və Johnny Gat bobblehead kuklaları ilə küçə dəstəsindən məişət brendinə çevrildi. Müqəddəslər Stilwater krallarıdır, lakin onların məşhur statusu diqqətdən kənarda qalmayıb."
+    },
+    {
+      "id": 53,
+      "image": "https://cdn1.epicgames.com/offer/61375e6a52534a1aa2d8ba6d46f9ee64/EGS_AgeofWonders4_TriumphStudios_S2_1200x1600-6753645ce36ddcfd00142d40143f3c46?h=480&quality=medium&resize=1&w=360",
+      "title": "Age of Wonders 4",
+      "price": "33.49",
+      "description": "Triumph Studios-un mükafat qazanan strategiya oyunu franchise, oyunun simvolik imperiya quruculuğu, rol oyunu və döyüş xüsusiyyətlərini təkmilləşdirməklə yeni eranın başlanğıcını qoydu. Yeni nağıl hadisə sistemi ilə yüksək səviyyədə fərdiləşdirilə bilən imperiyalar, hər oyunun getdikcə böyüyən əfsanənizə yeni bir fəsil əlavə etdiyi təkrarlana bilən təcrübələr təklif edir."
+    },
+    {
+      "id": 54,
+      "image": "https://cdn1.epicgames.com/offer/95b4d5a753d042678f775d5e1eb5ab25/EGS_SurvivingtheAftermathRebirth_IceflakeStudios_DLC_S2_1200x1600-cd9b2a2a8b9c87242d308280867c014a?h=480&quality=medium&resize=1&w=360",
+      "title": "Surviving the Aftermath: Rebirth",
+      "price": "8.49",
+      "description": "Uzun müddət post-apokaliptik Yer planetində sağ qalmaq üçün mübarizə apardınız. İndi bilik, bacarıq və liderliyiniz sayəsində nəhayət, bəşəriyyət üçün yeni bir səhifə aça bilərsiniz. “Yenidən doğuş” həm sağ qalanlar, həm də bütün bəşəriyyət üçün köhnə və yeni ilə bütün çətinlikləri dəf etməyə imkan verəcək şüarınıza, hədəfinizə, arzunuza çevrildi."
+    },
+    {
+      "id": 55,
+      "image": "https://cdn1.epicgames.com/offer/80d3aeb1d7c3434981e0bcbc47700a83/EGS_EuropaUniversalisIVDomination_ParadoxTinto_DLC_S2_1200x1600-5b14d0c5ab28b55ae4322558ce0b4556?h=480&quality=medium&resize=1&w=360",
+      "title": "Europa Universalis IV: Domination",
+      "price": "13.49",
+      "description": "EUIV Domination-da ən güclü və populyar xalqlardan bəzilərinə yenidən baxın. Bu Genişləndirmə Paketi oyundakı bir çox böyük güclər üçün yeni axtarış ağacları, yeni hökumət islahatları, yeni qəbilə idarəçiliyi və yeni tədbirlər təqdim edir."
+    },
+    {
+      "id": 56,
+      "image": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg?h=480&quality=medium&resize=1&w=360",
+      "title": "Grand Theft Auto V: Premium Edition",
+      "price": "24.99",
+      "description": "Gənc quldur, tənha bank soyğunçusu və qorxunc psixopat özlərini cinayətin, ABŞ hökumətinin və əyləncə sənayesinin dolaşıq şəbəkələrində tapırlar. Onlar heç kimə, o cümlədən özlərinə etibar edə bilməyəcəkləri qəddar şəhərdə təhlükəli quldurluq etməyi bacarmalıdırlar."
+    },
+    {
+      "id": 57,
+      "image": "https://cdn1.epicgames.com/offer/0c6aee83b9b64372bf44a043001325f2/EGS_NARAKABLADEPOINT_24Entertainment_S2_1200x1600-88f4e1f1ee1ffa8f7a85bf4e3a492e7e?h=480&quality=medium&resize=1&w=360",
+      "title": "NARAKA: BLADEPOINT",
+      "price": "19.99",
+      "description": "NARAKA: BLADEPOINT döyüş sənəti üslubunda yaxın döyüş, cazibə qüvvəsinə meydan oxuyan hərəkətlər, döyüş və uzaq məsafəli silahların böyük kolleksiyası və epik qabiliyyətlərə malik fərdiləşdirilə bilən əfsanəvi qəhrəmanlarla 60-a qədər oyunçu üçün fəaliyyətlə dolu mifoloji təcrübədir."
+    },
+    {
+      "id": 58,
+      "image": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg?h=480&quality=medium&resize=1&w=360",
+      "title": "Red Dead Redemption 2",
+      "price": "34.99",
+      "description": "Amerika, 1899.Artur Morqan və Van der Linde dəstəsi qaçır. Federal agentlərin və ölkənin ən yaxşı lütf ovçularının amansız təqibi altında dəstə üzvləri soymağa, qarət etməyə və Amerikanın məhəbbət bölgəsinin kobud ərazisini keçərək sağ qalmaq üçün mübarizə aparmağa davam etməlidirlər. Bu prosesdə daxili konfliktləri dərinləşən dəstə indi dağılmaq ərəfəsində olduğu halda, Artur da çətin seçim qarşısındadır: onu böyüdən dəstəyə sadiq qalacaq, yoxsa öz idealları ilə gedəcək?"
+    },
+    {
+      "id": 59,
+      "image": "https://cdn1.epicgames.com/offer/f5deacee017b4b109476933f7dd2edbd/EGS_EASPORTSFIFA23StandardEdition_EACanada_S2_1200x1600-c806355d9cc8b35ebe392f2a7db03075?h=480&quality=medium&resize=1&w=360",
+      "title": "EA SPORTS™ FIFA 23 Standard Edition",
+      "price": "69.99",
+      "description": "FIFA 23 HyperMotion2 Texnologiyası, mövsüm ərzində kişi və qadın FIFA Dünya Kuboku™ gəlişləri, qadın klub komandaları, çarpaz oyun xüsusiyyətləri* və s. ilə Dünya Oyununu meydançaya gətirir."
+    },
+    {
+      "id": 60,
+      "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/amogusportrait_1200x1600-66ad0e4d363e1c92f9f8aae67a96dd31?h=480&quality=medium&resize=1&w=360",
+      "title": "Among Us",
+      "price": "2.99",
+      "description": "Kosmik gəminizi yola salmağa hazırlaşarkən onlayn və ya yerli WiFi vasitəsilə 4-15 oyunçu ilə oynayın, lakin ekipajdakı bir və ya bir neçə təsadüfi oyunçu hər kəsi öldürmək istəyən saxtakarlar olduğundan ehtiyatlı olun!"
+    },
+    {
+      "id": 61,
+      "image": "https://cdn1.epicgames.com/spt-assets/764b2d57552c436590f50318bd7587f9/download-bloons-td-6-offer-100fo.jpg?h=480&quality=medium&resize=1&w=360",
+      "title": "Bloons TD 6",
+      "price": "6.99",
+      "description": "Mükəmməl müdafiənizi yaratmaq və qalan hər işğalçı Bloonu partlatmaq üçün zəhmli Meymun Atıcılarını, təkmilləşdirmələri, Qəhrəmanları və aktiv qabiliyyətləri birləşdirin!"
+    },
+    {
+      "id": 62,
+      "image": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/LoL_1200x1600-15ad6c981af8d98f50e833eac7843986?h=480&quality=medium&resize=1&w=360",
+      "title": "League of Legends",
+      "price": "Free",
+      "description": "League of Legends Riot Games tərəfindən hazırlanmış dünyanın ən məşhur video oyunlarından biridir. O, strategiyaya və rəqiblərdən üstün olan komandaya əsaslanan rəqabətli oyun rejiminə malikdir. Oyunçular, düşmən komandası özlərininkini sındırmazdan əvvəl düşmən Nexus-u sındırmaq üçün öz komandaları ilə işləyirlər."
+    },
+    {
+      "id": 63,
+      "image": "https://cdn1.epicgames.com/offer/5fdcc0dc67294af3be740f362bd976fd/EGS_MagicTheGatheringArena_WizardsoftheCoast_S2_1200x1600-598bab107ae56fa357070c71100cc0be?h=480&quality=medium&resize=1&w=360",
+      "title": "Magic: The Gathering Arena",
+      "price": "Free",
+      "description": "Magic nədir: Toplanma Arenası? MTG Arena həm yeni başlayanlar, həm də uzun müddət Magic həvəskarları üçün masaüstü və mobil cihazlarda mövcud rəqəmsal kolleksiya kart oyunudur! Öz əfsanəsi olacaq unikal göyərtənizi toplayın, qurun və mənimsəyin. Mükafatlar qazanın və dostlara və ya digər oyunçulara qarşı baş-başa gedin."
+    },
+    {
+      "id": 64,
+      "image": "https://img.asmedia.epimg.net/resizer/7Zw-cfWLsK14YBHgHuGMiXLzFeA=/1200x1200/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/LNRBE2BYWRBLTLY7JIYHHV6D74.png",
+      "title": "Counter Strike 2",
+      "price": "26.99",
+      "description": ""
+    },
+    {
+      "id": 65,
+      "image": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylines_ColossalOrder_S2-1200x1600-753257537706de74735d2bc3eb656b67.jpg?h=480&quality=medium&resize=1&w=360",
+      "title": "Cities: Skylines",
+      "price": "29.99",
+      "description": "Cities: Skylines, Paradox Interactive tərəfindən nəşr olunan şəhər qurma oyunudur. Oyunda yollar və tikililər tikilə bilər və şəhər böyüdülə bilər. Şəhər əhalisinin ehtiyacları çoxdur. Şəhərdə insanların daşınmasını asanlaşdırmaq və nəqliyyatın sıxlığını azaltmaq üçün ictimai nəqliyyat əlavə edilə bilər."
+    },
+    {
+      "id": 66,
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1717/6Of7qTgej2FBAKH0xZ1ZFEi7.png",
+      "title": "Call of Duty®: WARZONE 2.0®",
+      "available": "Available 04/10/23"
+    },
+    {
+      "id": 67,
+      "image": "https://cdn1.epicgames.com/spt-assets/c9adcd54220f4ddfacf4affaa8f473fd/undead-horde-dhr0j.png?h=480&quality=medium&resize=1&w=360",
+      "title": "Undead Horde",
+      "available": "Available 04/11/23"
+    },
+    {
+      "id": 68,
+      "image": "https://cdn1.epicgames.com/offer/f9bc208b965c4fb7afd0c842d764fc37/EGS_SherlockHolmesTheAwakened_Frogwares_S2_1200x1600-0ed490340fbe9567880c4751f6b9b10c?h=480&quality=medium&resize=1&w=360",
+      "title": "Sherlock Holmes The Awakened",
+      "available": "Available 04/11/23"
+    },
+    {
+      "id": 69,
+      "image": "https://cdn1.epicgames.com/spt-assets/beac674f880e48d698b2261e4b7df0e0/shinogi-chess-club-1row3.jpg?h=480&quality=medium&resize=1&w=360",
+      "title": "Shinogi Chess Club",
+      "available": "Available 04/11/23"
+    },
+    {
+      "id": 70,
+      "image": "https://cdn1.epicgames.com/spt-assets/91725b6b867d4d838e747f7262713792/cafe-owner-simulator-3fy9g.png?h=480&quality=medium&resize=1&w=360",
+      "title": "Cafe Owner Simulator",
+      "available": "Available 04/12/23"
+    },
+    {
+      "id": 71,
+      "image": "https://cdn1.epicgames.com/spt-assets/e8c07b5d3fc24a7bbb02193fd194f17b/the-gravehouse-1mj6i.png?h=480&quality=medium&resize=1&w=360",
+      "title": "The Gravehouse",
+      "available": "Available 04/10/23"
+    },
+    {
+      "id": 72,
+      "image": "https://cdn1.epicgames.com/spt-assets/c9adcd54220f4ddfacf4affaa8f473fd/undead-horde-dhr0j.png?h=480&quality=medium&resize=1&w=360",
+      "title": "Undead Horde",
+      "available": "Available 04/11/23"
+    },
+    {
+      "id": 73,
+      "image": "https://cdn1.epicgames.com/offer/f9bc208b965c4fb7afd0c842d764fc37/EGS_SherlockHolmesTheAwakened_Frogwares_S2_1200x1600-0ed490340fbe9567880c4751f6b9b10c?h=480&quality=medium&resize=1&w=360",
+      "title": "Sherlock Holmes The Awakened",
+      "available": "Available 04/11/23"
+    },
+    {
+      "id": 74,
+      "image": "https://cdn1.epicgames.com/spt-assets/beac674f880e48d698b2261e4b7df0e0/shinogi-chess-club-1row3.jpg?h=480&quality=medium&resize=1&w=360",
+      "title": "Shinogi Chess Club",
+      "available": "Available 04/11/23"
+    },
+    {
+      "id": 75,
+      "image": "https://cdn1.epicgames.com/spt-assets/91725b6b867d4d838e747f7262713792/cafe-owner-simulator-3fy9g.png?h=480&quality=medium&resize=1&w=360",
+      "title": "Cafe Owner Simulator",
+      "available": "Available 04/12/23"
+    },
+    {
+      "id": 76,
+      "image": "https://cdn1.epicgames.com/spt-assets/7ff0b14c1b50498ca2a180710f0874ee/trinity-fusion-has9t.png?h=480&quality=medium&resize=1&w=360",
+      "title": "Trinity Fusion",
+      "available": "Available 04/13/23"
+    },
+    {
+      "id": 77,
+      "image": "https://cdn1.epicgames.com/spt-assets/681b3531e4294c6c8356218031237300/dream-magic-will-1nsfy.jpg?h=480&quality=medium&resize=1&w=360",
+      "title": "Dream magic will",
+      "available": "Available 04/14/23"
+    },
+    {
+      "id": 78,
+      "image": "https://cdn1.epicgames.com/spt-assets/b45b12324d634951a4bd6ad999097bbb/download-deexit--eternal-matters-offer-uxezf.jpg?h=480&quality=medium&resize=1&w=360",
+      "title": "De-Exit - Eternal Matters",
+      "available": "Available 04/14/23"
+    },
+    {
+      "id": 79,
+      "image": "https://cdn1.epicgames.com/spt-assets/ceeec4b0d5d944439b2edcebaf688b05/the-ultimate-trivia-challenge-1ercq.png?h=480&quality=medium&resize=1&w=360",
+      "title": "The Ultimate Trivia Challenge",
+      "available": "Available 04/15/23"
+    },
+    {
+      "id": 80,
+      "image": "https://cdn1.epicgames.com/spt-assets/abf75f650a8f42f59733f9fbf8d99f1d/the-dawning-clocks-of-time-1gfh0.png?h=480&quality=medium&resize=1&w=360",
+      "title": "The Dawning Clocks of Time",
+      "available": "Available 04/17/23"
+    },
+    {
+      "id": 82,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "The Mageseeker: A League of Legends Story™",
+      "available": "Available 04/18/23"
+    },
+    {
+      "id": 83,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Fortune Follow: The Mansion",
+      "available": "Available 04/20/23"
+    },
+    {
+      "id": 84,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Outer Terror",
+      "available": "Available 04/20/23"
+    },
+    {
+      "id": 85,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "DESTRUCTURE: Among Debris",
+      "available": "Available 04/20/23"
+    },
+    {
+      "id": 86,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Stray Blade",
+      "available": "Available 04/20/23"
+    },
+    {
+      "id": 87,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Grief Trigger",
+      "available": "Available 04/21/23"
+    },
+    {
+      "id": 88,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Dead Island 2",
+      "available": "Available 04/21/23"
+    },
+    {
+      "id": 89,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Homestead Arcana",
+      "available": "Available 04/21/23"
+    },
+    {
+      "id": 90,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Stranded: Alien Dawn",
+      "available": "Available 04/25/23"
+    },
+    {
+      "id": 91,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Honkai: Star Rail",
+      "available": "Available 04/26/23"
+    },
+    {
+      "id": 92,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Bramble The Mountain King",
+      "available": "Available 04/27/23"
+    },
+    {
+      "id": 93,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "ELEGIES Aya",
+      "available": "Available 04/28/23"
+    },
+    {
+      "id": 94,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "STAR WARS Jedi: Survivor™",
+      "available": "Available 04/28/23"
+    },
+    {
+      "id": 95,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Strayed Lights",
+      "available": "Available Apr 2023"
+    },
+    {
+      "id": 96,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Lightracer Spark",
+      "available": "Available Apr 2023"
+    },
+    {
+      "id": 97,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Jennifer Wilde Unlikely Revolutionaries",
+      "available": "Available Apr 2023"
+    },
+    {
+      "id": 98,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Panic Porcupine",
+      "available": "Available Apr 2023"
+    },
+    {
+      "id": 99,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Cepheus Protocol",
+      "available": "Available Apr 2023"
+    },
+    {
+      "id": 100,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "The Swine",
+      "available": "Available Apr 2023"
+    },
+    {
+      "id": 101,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Out of Bounds",
+      "available": "Available Apr 2023"
+    },
+    {
+      "id": 102,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Outworld Patrol",
+      "available": "Available Apr 2023"
+    },
+    {
+      "id": 103,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Everlasting Guilt",
+      "available": "Available Apr 2023"
+    },
+    {
+      "id": 104,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Busway Islands - Puzzle",
+      "available": "Available Apr 2023"
+    },
+    {
+      "id": 105,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Active Soccer 2023",
+      "available": "Available Apr 2023"
+    },
+    {
+      "id": 106,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "The Sorrowvirus",
+      "available": "Available Apr 2023"
+    },
+    {
+      "id": 107,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Roma Invicta",
+      "available": "Available Apr 2023"
+    },
+    {
+      "id": 108,
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+      "title": "Covid Carl",
+      "available": "Available Apr 2023"
+    },
+    {
+      "id": 109,
+      "title": "Cyberpunk 2077",
+      "blogtitle": "Update: Cyberpunk 2077 with the patch 1.62 – technology preview of Ray Tracing: Overdrive Mode",
+      "hour": "1 hours ago",
+      "comment": 0,
+      "price": 29.99,
+      "description": "Cyberpunk 2077, ölüm-dirim kiberqulduru muzdlu kimi oynadığınız Night City klasterində qurulmuş açıq dünya aksiyon-macəra RPG oyunudur. Təkmilləşdirmələr və tamamilə yeni pulsuz əlavə məzmunla missiyalara başladığınız zaman şöhrət qazanmaq və yeni təkmilləşdirmələri açmaqla xarakterinizi və oyun tərzinizi fərdiləşdirin. Qurduğunuz əlaqələr və verdiyiniz qərarlar hekayəni və yaşadığınız dünyanı formalaşdıracaq. Əfsanələrin yazıldığı yer budur. Bəs sizinki necə olacaq?",
+      "category1": "klassik pc oyun",
+      "category2": "fəaliyyət",
+      "time": "Aprel 14,2023",
+      "image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5?h=480&quality=medium&resize=1&w=360",
+      "rating": {
+        "rate": 4.6,
+        "count": 176
+      },
+      "bg": "https://images5.alphacoders.com/927/thumb-1920-927025.png"
+    },
+    {
+      "id": 110,
+      "title": "The Witcher 3: Wild Hunt – Complete Edition",
+      "blogtitle": "Update: patch 4.03 for The Witcher 3: Wild Hunt",
+      "hour": "12 days ago",
+      "comment": 46,
+      "discount": "-70%",
+      "price": 7.49,
+      "description": "Kirayəlik əfsanəvi canavar ovçusu Geralt of Rivia rolunu üzərinə götürün. Canavarlarla örtülmüş müharibədən dağıdılmış qitə sizi kəşf etmək üçün gözləyir. Növbəti müqaviləniz dünyanı yenidən formalaşdırmağa qadir olan canlı silah olan Ciri, Peyğəmbərliyin Uşağını tapmaqdır.",
+      "category1": "klassik pc oyun",
+      "category2": "açıq dünya",
+      "time": "Yanvar 12,2023",
+      "image": "https://images.gog-statics.com/7809c7dbb669c753234bf81df927521d2084f54e14f97ad1a3fecfbac10f2df4_bg_crop_1680x655.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 146
+      },
+      "bg": "https://i5.walmartimages.com/asr/46cb7a57-b095-4e47-838f-02aa9a302736.04d9f7fc1c110ce1a42dc89025c508fe.jpeg"
+    },
+    {
+      "id": 111,
+      "title": "Far Cry® 6",
+      "blogtitle": "Update: patch 4.03 Far Cry® 6",
+      "hour": "15 days ago",
+      "comment": 17,
+      "price": 32.99,
+      "description": "Hope Town, Montana xoş gəlmisiniz. Bu, azad və cəsurların şəhəridir, lakin eyni zamanda Cənnət Qapısı adlı apokaliptik kultun qərargahıdır. Kult lideri Cozef Seedə və onun qardaşları olan Evangelistlərə qarşı səsinizi qaldırın və şəhəri azad edəcək müqavimətə səbəb olun.",
+      "category1": "atıcı",
+      "category2": "açıq dünya",
+      "time": "Aprel 18,2022",
+      "image": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD%20EDITION_EPIC_Store_Portrait_1200x1600-1200x1600-ca8b802ff13813c37a44ebf68d0946a2.png?h=480&quality=medium&resize=1&w=360",
+      "rating": {
+        "rate": 4.4,
+        "count": 146
+      },
+      "bg": "https://www.planetzone.nl/wp-content/uploads/Far-Cry-6-keyart.jpg"
+    },
+    {
+      "id": 112,
+      "title": "Metro: Last Light Redux",
+      "blogtitle": "Update: patch 4.07 Metro: Last Light Redux",
+      "hour": "20 days ago",
+      "comment": 72,
+      "price": 12.99,
+      "description": "2034-cü ildir. Post-apokaliptik Moskvanın xarabalıqları altında, Metro tunellərində bəşəriyyətin qalıqları xaricdən və daxildən ölümcül təhlükələrlə mühasirəyə alınıb. Mutantlar kimsəsiz səthin altındakı katakombaları izləyir və yuxarıdakı zəhərli səmaların arasında ovlayırlar.",
+      "category1": "klassik pc oyun",
+      "category2": "açıq dünya",
+      "time": "May 14,2023",
+      "image": "https://cdn1.epicgames.com/offer/c5e786eddfd041caa9984213e3f9621d/metro_last_light_epic_tile_1200x1600_1200x1600-d4f66fca79c098f57e6759dedb6c6565?h=480&quality=medium&resize=1&w=360",
+      "rating": {
+        "rate": 4.7,
+        "count": 186
+      },
+      "bg": "https://wallpapercave.com/wp/wp4519500.jpg"
+    },
+    {
+      "id": 114,
+      "title": "Breathedge",
+      "blogtitle": "Release: Breathedge from Tate Multimedia with a -20% discount",
+      "hour": "22 days ago",
+      "comment": 3,
+      "price": 14.99,
+      "description": "Kosmosda sağ qalın! Ölməz toyuqunuzla birlikdə ani kosmik gəmi qəzasının arxasındakı həqiqəti kəşf edin. Sağ qalmaq və dağıntıları araşdırmaq üçün alətlər, pilot nəqliyyat vasitələri və hətta kosmik stansiyalara nəzarət edin.",
+      "category1": "klassik pc oyun",
+      "category2": "açıq dünya",
+      "time": "May 6,2023",
+      "image": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg?h=480&quality=medium&resize=1&w=360",
+      "rating": {
+        "rate": 4.7,
+        "count": 186
+      },
+      "bg": "https://assets.xboxservices.com/assets/1f/c8/1fc8ce3b-60b6-422a-84d3-16858472ccde.jpg?n=745632_GLP-Page-Hero-1084_1920x1080.jpg"
+    },
+    {
+      "id": 115,
+      "title": "Wartales",
+      "blogtitle": "Coming soon: Wartales",
+      "hour": "44 days ago",
+      "comment": 26,
+      "price": 20.79,
+      "discount": "-20%",
+      "description": "2034-cü ildir. Post-apokaliptik Moskvanın xarabalıqları altında, Metro tunellərində bəşəriyyətin qalıqları xaricdən və daxildən ölümcül təhlükələrlə mühasirəyə alınıb. Mutantlar kimsəsiz səthin altındakı katakombaları izləyir və yuxarıdakı zəhərli səmaların arasında ovlayırlar.",
+      "category1": "klassik pc oyun",
+      "category2": "açıq dünya",
+      "image": "https://images.gog-statics.com/f15d39221fce55b7e2b291fbd9687d2c7a984271e3c6ac2ff0cb13bccd3cf8d5.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 186
+      },
+      "bg": "https://wallpapercave.com/wp/wp4519500.jpg"
+    },
+    {
+      "id": 116,
+      "title": "Prince of Persia®: The Sands of Time",
+      "blogtitle": "Weekly Sale: deals up to -85% are up for grabs!",
+      "hour": "11 days ago",
+      "comment": 7,
+      "price": 1.09,
+      "description": "Şahzadə ekzotik Persiyaya qayıdır. Atası Maharaca sarayına basqın etdikdən sonra xain vəzir tərəfindən aldadılan Şahzadə sehrli xəncərlə təhlükəli Zaman Qumlarını bəzəkli qum saatından azad edir. Gözəl, sirli və potensial etibarsız müttəfiqin köməyi ilə oyunçular Şahzadəyə Zamanın Qumlarını geri qaytarmaq və ölkədə sülhü bərpa etmək üçün rəhbərlik edir.",
+      "category": "Fəaliyyət, Hekayə, Məcara ,Classic",
+      "image": "https://images-3.gog-statics.com/b39f745aea99e997ec9eb2052761bdb3e93985e8eb07c23b54c86c448350da9f_product_tile_hover_398_2x.jpg",
+      "bg": "https://images.gog-statics.com/8245f0754d29a5ab52f735050b15973941219f4e157ab71e4d496a965c6380b1_bg_crop_1680x655.jpg"
+    },
+    {
+      "id": 117,
+      "title": "The Elder Scrolls V: Skyrim Anniversary Edition",
+      "blogtitle": "Weekly Sale: deals up to -85% are up for grabs!",
+      "hour": "4 days ago",
+      "comment": 19,
+      "price": 49.99,
+      "description": "200-dən çox İlin Oyunu Mükafatının qalibi The Elder Scrolls V: Skyrim 10 illik macəraları heyrətamiz detallarla qeyd edir. Yubiley Buraxılışına onillik məzmun daxildir: tənqidçilər tərəfindən bəyənilən əsas oyun və Skyrim Xüsusi Buraxılış əlavələri, üstəlik, Yaradılış Klubundan əvvəllər mövcud olan və yeni məzmun, o cümlədən qonaqlar, zindanlar, bosslar, silahlar, sehrlər və s.",
+      "category": "Fəaliyyət,RolePlay, Hekayə, Məcara ",
+      "image": "https://images-1.gog-statics.com/16a042d9ad86c137414df42707c88a09339acc9b8dc495b9cd5fe895d6ec0af4_product_tile_256.webp",
+      "bg": "https://images.gog-statics.com/3441699f797247e4f0e3af97c0e18ed78a7b64380975584db017516395222c20_bg_crop_1680x655.jpg"
+    },
+    {
+      "id": 118,
+      "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+      "price": 12.59,
+      "description": "Witcher, Geralt of Rivia haqqında RPG dastanının ikinci hissəsi. Həm gözəl vizual, həm də mürəkkəb oyun mexanikasına cavabdeh olan yeni, müasir oyun mühərriki oyunçuları indiyədək RPG oyununda yaradılmış ən canlı və inandırıcı dünyaya qoyur. Cazibədar hekayə, dinamik döyüş sistemi, gözəl qrafika və orijinal Witcher-i belə möhtəşəm bir oyuna çevirən hər şey indi daha təkmil və təkmil şəkildə həyata keçirilir.",
+      "category": "Fəaliyyət,RolePlay, Hekayə, Məcara ",
+      "image": "https://images-4.gog-statics.com/8355e657a19311b158a3553a154e109199d6991c7791a20c3305af1f84d15ed7_product_tile_256.webp",
+      "bg": "https://images.gog-statics.com/a1bb20bfc2ed9e38b55481e87cd4dd468f2c0304da993f068b7d842ed06d0d1e_bg_crop_1680x655.jpg"
+    },
+    {
+      "id": 119,
+      "title": "Alaskan Truck Simulator",
+      "price": 18.59,
+      "description": "Alaskan Truck Simulator Alyaskanın amansız mühitində baş verən unikal bir oyundur. O, tanınmış simulyator klassiklərini sağ qalma janrının elementləri ilə birləşdirir. Bağlayın, biz düzgün macəraya başlamaq üzrəyik!",
+      "category": "Fəaliyyət,Simulation",
+      "image": "https://images-1.gog-statics.com/8d8eec657966cb581ed80462c9e5c222311737ef23dd64abf1fbc3558160b9bf_product_tile_256_2x.jpg",
+      "bg": "https://images.gog-statics.com/2d76032256323e865de6099b37f0809d3b065e8ae8f1508e4bc4841a896e6391_bg_crop_1680x655.jpg"
+    },
+    {
+      "id": 120,
+      "title": "Baldur's Gate 3",
+      "price": 29.99,
+      "description": " Assemble your party and return to the Forgotten Realms. Experience a tale of friendship and betrayal, sacrifice and survival - and the lure of absolute power. ",
+      "category": "Fəaliyyət, Hekayə, Açıq Dünya",
+      "image": "https://images-2.gog-statics.com/01fca28b1d9312521b565f049dce0249ccb3fe7a039232c7b12bf96bd977d1d9_takeover_bg_1920.jpg",
+      "bg": "https://www.gamewallpapers.com/wallpapers_slechte_compressie/wallpaper_baldurs_gate_3_01_1920x1080.jpg"
+    }
+  ],
+  "blogcomments": [
+    {
+      "name": "Test",
+      "surname": "Test",
+      "comment": "asdasd",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "name": "Emin",
+      "comment": "Qrafika yaxşı görünür",
+      "selectedStars": 5
+    },
+    {
+      "name": "Farid",
+      "rev": "Nice",
+      "selectedStars": 5,
+      "id": 2
+    },
+    {
+      "name": "faiq",
+      "rev": "faiq",
+      "selectedStars": 3,
+      "id": 3
+    }
+  ]
+}
