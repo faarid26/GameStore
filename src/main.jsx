@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
 import "./App.css";
-import "./Responsive.css";
 import Reducer from "./store/reducer";
 import { legacy_createStore } from "redux";
 const store = legacy_createStore(Reducer);
